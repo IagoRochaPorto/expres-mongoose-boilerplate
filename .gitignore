@@ -1,3 +1,5 @@
 node_modules/
 src/controllers/
 src/models/
+yarn-error.log
+yarn.lock
